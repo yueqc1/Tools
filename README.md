@@ -23,7 +23,6 @@
 - [CAJViewer](http://cajviewer.cnki.net/index.html)
 - [Kindle](https://www.amazon.com/gp/browse.html?ref_=nav_em__ods_eink_con_karl_0_2_3_17_0_2_3_15&node=16571048011&ref=kcp_fd_hz)
 - [calibre - 电子书管理](https://calibre-ebook.com/)
-- [Source Insight](https://www.sourceinsight.com/)
 - [MSDN, 我告诉你](http://msdn.itellyou.cn/)
 
 ***
